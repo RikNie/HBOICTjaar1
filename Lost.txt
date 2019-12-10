@@ -1,4 +1,6 @@
+---------
 horror genre
+
 achtervolging van moordernaar
 speelt af rond om en in huis
 verschillende kamers
@@ -6,14 +8,15 @@ interactie met deuren en verschillende voorwerpen
 kan de moordernaar tijdelijk uitschakelen
 heeft verschillende voorwerpen/clues nodig
 kan uit eindelijk ontsnappen
+---------
+
 
 ---------
 Story
 
-after a long day of hiking in the mountains you return home.
-the road you took is temporarly closed,
-so you're forced to take another way home.
-the new road is along side an abandoned campsite.
+night falls and you're going home from a long day of work.
+the road you always take is temporarly closed and you're forced to take an old road.
+the old road is along side an abandoned campsite near a lake and a forest.
 after driving for a while your engine suddenly starts stuttering and smoking.
 you pullover alongside the road and step out of the car.
 after looking underneath the hood you figure out your engine has some damaged components.
@@ -21,6 +24,7 @@ you start exploring the campsite for left over items to fix your engine.
 while searching around you get the feeling that you're being watched.
 make your search quick and fast before "IT" catches up.
 ---------
+
 
 ---------
 Hints

@@ -1,6 +1,9 @@
+class objects
+{
 public void key()
   {
-  string key;
+  String key;
   key = "cabin key";
-  System.println(key);
+  System.out.println(key);
   }
+}

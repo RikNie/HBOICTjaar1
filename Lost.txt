@@ -15,7 +15,7 @@ kan uit eindelijk ontsnappen
 Story
 
 night falls and you're going home from a long day of work.
-the road you always take is temporarly closed and you're forced to take an old road.
+the road you always take is temporarily closed and you're forced to take an old road.
 the old road is along side an abandoned campsite near a lake and a forest.
 after driving for a while your engine suddenly starts stuttering and smoking.
 you pullover alongside the road and step out of the car.
@@ -33,4 +33,3 @@ Hints
 (hint: doors can temporary block "IT" in reaching you.)
 (hint: find items to repair your engine to return home.)
 ---------
-

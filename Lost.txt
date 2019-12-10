@@ -8,13 +8,25 @@ heeft verschillende voorwerpen/clues nodig
 kan uit eindelijk ontsnappen
 
 ---------
-story
+Story
 
 after a long day of hiking in the mountains you return home.
 the road you took is temporarly closed,
-so you have you are forced to take another way home.
-you are driving along side an abandoned campsite when all of a sudden...
-*BOOF*
-your engine stops working and you park your car alongside the road.
+so you're forced to take another way home.
+the new road is along side an abandoned campsite.
+after driving for a while your engine suddenly starts stuttering and smoking.
+you pullover alongside the road and step out of the car.
+after looking underneath the hood you figure out your engine has some damaged components.
+you start exploring the campsite for left over items to fix your engine.
+while searching around you get the feeling that you're being watched.
+make your search quick and fast before "IT" catches up.
+---------
+
+---------
+Hints
+
+(hint: you can use temporary weapons to knock out "IT" for a certain amount of moves.)
+(hint: doors can temporary block "IT" in reaching you.)
+(hint: find items to repair your engine to return home.)
 ---------
 
